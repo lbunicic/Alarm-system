@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lbunicic/Documents/Faks/Završni rad/Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9c878be5458d60040f286b7fff0d0ec2a78d0ab">
+        <dex dex="/Users/lbunicic/Documents/Faks/Završni rad/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bbc4172416072e2c2831b0e4c8d522c128a7c70c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lbunicic/Documents/Faks/Završni rad/Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/lbunicic/Documents/Faks/Završni rad/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95e9f01cfb7260eddf55b9a1ab458d74bdf2e246/classes.dex" />
+    </item>
+
+</items>

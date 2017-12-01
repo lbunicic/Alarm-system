@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Window Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main1">MainActivity1</string>
+
+    <string name="linkTxt">
+        Icons made by
+        <a href="http://www.freepik.com">www.freepik.com</a>
+         from
+        <a hreg="http://www.flaticon.com">www.flaticon.com</a>
+    </string>
+
+    <string name="about">
+        Aplikacija Window Alarm dio je Sustava za alarmiranje u pametnoj kući. Omogućuje pregled stanja prozora pametne kuće, trenutnog vremena te obavještava korisnika u slućaju da pada kiša
+        , a neki od prozora je otvoren.
+    </string>
+
+</resources>

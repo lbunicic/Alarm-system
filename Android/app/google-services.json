@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143048329267",
+    "firebase_url": "https://rainalarm-6708f.firebaseio.com",
+    "project_id": "rainalarm-6708f",
+    "storage_bucket": "rainalarm-6708f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143048329267:android:44b147107df70cb2",
+        "android_client_info": {
+          "package_name": "zavrsni.tel.fer.windowalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143048329267-ej16thkis8fpfhdhjqtm11790tljls9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdPuiAAuePqNzH6NB4lt6YHycdAWo920"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143048329267-ej16thkis8fpfhdhjqtm11790tljls9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
